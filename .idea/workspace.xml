@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e6c68c63-1415-4f14-9bf8-1ab1f802a170" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/click-counter-server/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/click-counter-server/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/click-counter-server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/click-counter-server/server.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -45,20 +46,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/click-counter-server/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+            <state relative-caret-position="210">
+              <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/click-counter-server/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+            <state relative-caret-position="285">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -102,8 +103,8 @@
         <option value="$PROJECT_DIR$/movie-viewer/package.json" />
         <option value="$PROJECT_DIR$/movie-viewer/src/tailwind.css" />
         <option value="$PROJECT_DIR$/movie-viewer/src/App.js" />
-        <option value="$PROJECT_DIR$/click-counter-server/package.json" />
         <option value="$PROJECT_DIR$/click-counter-server/server.js" />
+        <option value="$PROJECT_DIR$/click-counter-server/package.json" />
       </list>
     </option>
   </component>
@@ -203,12 +204,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575974975037</updated>
-      <workItem from="1575974976471" duration="4741000" />
+      <workItem from="1575974976471" duration="4800000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4741000" />
+    <option name="totallyTimeSpent" value="4800000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-317" y="-1171" width="1680" height="1027" extended-state="0" />
@@ -216,11 +217,11 @@
     <layout>
       <window_info id="npm" sideWeight="0.50079745" side_tool="true" visible="true" weight="0.24954791" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49920255" visible="true" weight="0.24954791" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49920255" visible="true" weight="0.24954791" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
@@ -302,17 +303,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/click-counter-server/package.json">
+    <entry file="file://$PROJECT_DIR$/click-counter-server/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/click-counter-server/server.js">
+    <entry file="file://$PROJECT_DIR$/click-counter-server/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        <state relative-caret-position="210">
+          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
         </state>
       </provider>
     </entry>

@@ -11,11 +11,24 @@ app.use(bodyParser.urlencoded({ extended: false }));
 // parse application/json
 app.use(bodyParser.json());
 
+const low = require("lowdb");
+const FileSync = require("lowdb/adapters/FileSync");
+
+const adapter = new FileSync("db.json");
+
+const db = low(adapter);
 
 app.post("/movies", (req, res) => {
 	const { tmdb_id } = req.body;
 	console.log(tmdb_id);
 
+	db.update(`${tmdb_id}`, n => {
+		if (!n) {
+			return 1;
+		} else {
+			return n + 1;
+		}
+	}).write();
 	return res.json({
 		result: true
 	});
