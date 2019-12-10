@@ -1,0 +1,12 @@
+To run everything
+
+cd movie-viewer/ && npm install && npm start && cd ../click-counter-server/ && npm install && npm start
+
+Frontend runs on port 3000
+Server runs on port 5000
+
+run front-end
+cd movie-viewer/ && npm install && npm start
+
+run server
+cd ../click-counter-server/ && npm install && npm start
