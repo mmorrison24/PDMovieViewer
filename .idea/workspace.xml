@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6c68c63-1415-4f14-9bf8-1ab1f802a170" name="Default Changelist" comment="" />
+    <list default="true" id="e6c68c63-1415-4f14-9bf8-1ab1f802a170" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/click-counter-server/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/click-counter-server/package.json" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -31,14 +33,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/movie-viewer/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+            <state relative-caret-position="300">
+              <caret line="20" column="74" selection-start-line="20" selection-start-column="74" selection-end-line="20" selection-end-column="74" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/click-counter-server/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/click-counter-server/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -82,6 +102,8 @@
         <option value="$PROJECT_DIR$/movie-viewer/package.json" />
         <option value="$PROJECT_DIR$/movie-viewer/src/tailwind.css" />
         <option value="$PROJECT_DIR$/movie-viewer/src/App.js" />
+        <option value="$PROJECT_DIR$/click-counter-server/package.json" />
+        <option value="$PROJECT_DIR$/click-counter-server/server.js" />
       </list>
     </option>
   </component>
@@ -106,6 +128,11 @@
             <path>
               <item name="PinDropInterview" type="b2602c69:ProjectViewProjectNode" />
               <item name="PinDropInterview" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PinDropInterview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PinDropInterview" type="462c0819:PsiDirectoryNode" />
+              <item name="click-counter-server" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -176,15 +203,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575974975037</updated>
-      <workItem from="1575974976471" duration="4388000" />
+      <workItem from="1575974976471" duration="4741000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4388000" />
+    <option name="totallyTimeSpent" value="4741000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-317" y="-1171" width="1680" height="1027" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="npm" sideWeight="0.50079745" side_tool="true" visible="true" weight="0.24954791" />
       <window_info id="Favorites" side_tool="true" />
@@ -266,11 +294,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/movie-viewer/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+        <state relative-caret-position="300">
+          <caret line="20" column="74" selection-start-line="20" selection-start-column="74" selection-end-line="20" selection-end-column="74" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/click-counter-server/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/click-counter-server/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
         </state>
       </provider>
     </entry>
