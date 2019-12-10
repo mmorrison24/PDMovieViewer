@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6c68c63-1415-4f14-9bf8-1ab1f802a170" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movie-viewer/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/movie-viewer/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movie-viewer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/movie-viewer/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movie-viewer/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/movie-viewer/src/App.js" afterDir="false" />
-    </list>
+    <list default="true" id="e6c68c63-1415-4f14-9bf8-1ab1f802a170" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -112,17 +107,6 @@
               <item name="PinDropInterview" type="b2602c69:ProjectViewProjectNode" />
               <item name="PinDropInterview" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="PinDropInterview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PinDropInterview" type="462c0819:PsiDirectoryNode" />
-              <item name="movie-viewer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PinDropInterview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PinDropInterview" type="462c0819:PsiDirectoryNode" />
-              <item name="movie-viewer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -192,16 +176,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575974975037</updated>
-      <workItem from="1575974976471" duration="3700000" />
+      <workItem from="1575974976471" duration="4388000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3700000" />
+    <option name="totallyTimeSpent" value="4388000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-317" y="-1171" width="1680" height="1027" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="npm" sideWeight="0.50079745" side_tool="true" visible="true" weight="0.24954791" />
       <window_info id="Favorites" side_tool="true" />
