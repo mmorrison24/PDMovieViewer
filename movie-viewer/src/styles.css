@@ -610,6 +610,10 @@ video {
   }
 }
 
+h2 {
+  font-size: 2em;
+}
+
 .sr-only {
   position: absolute;
   width: 1px;
